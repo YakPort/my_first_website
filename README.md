@@ -1,14 +1,15 @@
-# This is my first README 
+# My first Website 
 
-Welcome !
+## Technologies used so far 
 
-## This is a h2 
+### HTML
 
-### This is a h3
+### CSS
 
-#### This is a h4
+### Git and Github pages
 
-##### This is a h5
+### CLI - Command Line Interface
 
-###### This is a h6
+#### I am looking forward to learning more 
+
 
