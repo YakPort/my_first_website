@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+nav ul {
+    list-style: none;
+    background-color: #4a4a4f;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    font-size: 1.2em;
+    line-height: 60px;
+    display: inline-block;
+    height: 60px;
+    margin-left: 2.5%
+/*play with the line height to centre text*/
+}
+
+/*text decoration the underline in link, 
+the height is part of the block */
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    display: block;
+    height: 60px;
+}
+
+nav a:hover {
+    background-color: #ffffff;
+    color: #4a4a4f;
+}
+
+h1 {
+    text-align:center;
+}
+
+.card {
+    margin-left: 10%;
+    max-width: 260px;
+    min-width: 150px;
+    float:left;
+}
+
+.card a {
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+img {
+    padding-left:0;
+    height: 100px;
+    float:left; display:inline-block;
+    
+    
+}
+
+h2 {
+    text-align: center;
+    color: grey;
+}
+
+
+
+
